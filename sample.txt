@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Add a new line to main
-=======
-Adding a new change
->>>>>>> 02969e2 (Adding a new change)
+Adding new line from new branch
